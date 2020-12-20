@@ -17,7 +17,7 @@ Urban cities got the most driver count in comparison of the others cities type, 
 ![](Resources/Total_drivers..PNG)
 - Total Fare:<br>
 Urban cities got the more fare amount compared to other cities types, Suburban total fare was ~50% less of Urban and Rural was the lowest with ~90% less than the total fare for the most profitable cities type.br
-![](Resources\Total_Fares.PNG)<br>
+![](Resources/Total_Fares.PNG)<br>
 
 - Average fare per ride:<br> 
 At a glance we saw that the average fare per ride is more expansive in the Rural cities type, Suburban were ~12% lower and Urban were the lower with an average fare of $24.52.<br>
@@ -25,7 +25,7 @@ At a glance we saw that the average fare per ride is more expansive in the Rural
 
 - Average fare per driver:<br>
 The average fare per driver reached is most for the Rural cities types and is lowest for the Urban, meanwhile, Suburban were in the middle closest to Rural.<br>
-![](Resources\Average_fare_per_driver.PNG)<br>
+![](Resources/Average_fare_per_driver.PNG)<br>
 
 Finally the results showed that the average fare was bigger in Rural cities due to the fact that there were less driver available. But more the cities were large, the more we could see ride-sharing. We also analysed that for all cities type there was an augmentation of fare in late february.<br>
 ![](Analysis/Fig8.png)<br>
