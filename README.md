@@ -27,7 +27,7 @@ At a glance we saw that the average fare per ride is more expansive in the Rural
 The average fare per driver reached is most for the Rural cities types and is lowest for the Urban, meanwhile, Suburban were in the middle closest to Rural.<br>
 
 ![](Analysis/PyBer_fare_summary.png)<br>
-Finally the results showed that the average fare was bigger in Rural cities due to the fact that there were less driver available. The largest the city was, the more we could see ride-sharing. We also analysed that for all cities type there was a spike of fare in the last week of february.<br>
+Finally the results showed that the average fare was larger in Rural cities due to the fact that there were less driver available. The largest the city was, the more we could see ride-sharing. We also analysed that for all cities type there was a spike of fare in the last week of february.<br>
 
 
 ##  Summary :
@@ -37,6 +37,7 @@ We could recommended based on this analysis:<br>
 - Lowering the fare per driver for the Rural type.
 - Lowering the price of ride for the Rural type to encouraged more utilisation of the service.
 - Allocated more drivers on Rural zone, because the driver count is really low in comparison of others cities types.<br>
+
 A limitation here was the time frame for the analysis. Checking datas on a all year of service could have give more informations on it.
    
 
